@@ -1,0 +1,38 @@
+{
+  "choose_lang": "Tilni tanlang/Выберите язык",
+  "message_1": {
+    "uz": "Brendok botiga xush kelibsiz!\uD83E\uDD17",
+    "ru": "Добро пожаловать в бот-Bendok!\uD83E\uDD17"
+  },
+  "send_message": {
+    "uz": "Xabar jo'nating\uD83D\uDCE9",
+    "ru": "Отправьте сообщение\uD83D\uDCE9"
+  },
+  "buttons": {
+    "lang": ["O'zbek🇺🇿", "Русский🇷🇺"],
+    "help": {
+      "uz": "Yordam",
+      "ru": "Помощь"
+    },
+    "settings": {
+      "uz": "Sozlamalar⚙\uFE0F",
+      "ru": "Настройки⚙\uFE0F" 
+    },
+    "buy": {
+      "uz": "Mahsulot sotib olish🛒",
+      "ru": "Покупка продукта🛒"
+    },
+    "cancel": {
+      "uz": "⬅️Orqaga",
+      "ru": "⬅️Назад"
+    },
+    "msg_was_sent":{
+      "uz": "Xabaringiz yuborildi✅",
+      "ru": "Ваше сообщение было отправлено✅" 
+    },
+    "msg_wasnt_sent":{
+      "uz": "Xabaringiz bekor qilindi!",
+      "ru": "Ваше сообщение удалено!"
+    }
+  }
+}
